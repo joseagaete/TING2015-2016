@@ -21,4 +21,10 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
                       IIIIIIIIIIIIIIIII             IIIIIIIIIIIIIIIII
                       IIIIIIIIIIIIIIIII             IIIIIIIIIIIIIIIII
                       IIIIIIIIIIIIIIIII             IIIIIIIIIIIIIIIII
-                      IIIIIIIIIIIIIIIII             IIIIIIIIIIIIIIIII           
+                      IIIIIIIIIIIIIIIII             IIIIIIIIIIIIIIIII     
+                      
+                      if(x == 0){
+                          calculadora.sumar(x+2);
+                      }else{
+                          calculadora.error(x-2);
+                      }
